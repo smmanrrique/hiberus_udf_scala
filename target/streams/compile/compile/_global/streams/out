@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\smmanrique\3D Objects\hiberus_udf_scala\SimpleUdf.scala:6:7: class SimpleUdf needs to be abstract, since method call in trait UDF1 of type (x$1: Integer)Integer is not defined[0m
+[0m[[0m[31merror[0m] [0m[0mclass SimpleUdf extends UDF1[Integer, Integer]  {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

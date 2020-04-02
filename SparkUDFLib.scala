@@ -1,4 +1,5 @@
-package guru.learningjournal.SparkUDFLib
+package udf.functions.SparkUDFLib
+
 import org.apache.spark.sql.api.java.UDF1
 
 class ParseGender extends UDF1[String, String] {

@@ -1,6 +1,6 @@
 name := "spark-udf-lib"
 version := "0.1"
-organization := "udf.accesshandler"
+organization := "udf.functions"
 scalaVersion := "2.11.8"
 val sparkVersion = "2.4.4"
 

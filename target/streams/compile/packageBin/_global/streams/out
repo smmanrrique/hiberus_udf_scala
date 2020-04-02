@@ -1,11 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/shamuel/unizar/udf-lib/target/scala-2.11/spark-udf-lib_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\smmanrique\3D Objects\hiberus_udf_scala\target\scala-2.11\spark-udf-lib_2.11-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/shamuel/unizar/udf-lib/target/scala-2.11/classes/guru[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/shamuel/unizar/udf-lib/target/scala-2.11/classes/guru/learningjournal[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/SparkUDFLib[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/shamuel/unizar/udf-lib/target/scala-2.11/classes/guru/learningjournal/SparkUDFLib[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/SparkUDFLib/ParseGender.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/shamuel/unizar/udf-lib/target/scala-2.11/classes/guru/learningjournal/SparkUDFLib/ParseGender.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	udf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smmanrique\3D Objects\hiberus_udf_scala\target\scala-2.11\classes\udf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	udf\functions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smmanrique\3D Objects\hiberus_udf_scala\target\scala-2.11\classes\udf\functions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	udf\functions\SparkUDFLib[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smmanrique\3D Objects\hiberus_udf_scala\target\scala-2.11\classes\udf\functions\SparkUDFLib[0m
+[0m[[0m[0mdebug[0m] [0m[0m	udf\functions\SparkUDFLib\addOne.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smmanrique\3D Objects\hiberus_udf_scala\target\scala-2.11\classes\udf\functions\SparkUDFLib\addOne.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	udf\functions\SparkUDFLib\ParseGender.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smmanrique\3D Objects\hiberus_udf_scala\target\scala-2.11\classes\udf\functions\SparkUDFLib\ParseGender.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
